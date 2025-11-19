@@ -4,7 +4,7 @@
   
   # Olá! Eu sou Luiz Henrique 👋
   
-  >  Tenho 20 anos e atualmente sou estudante de Ciência da Computação na Universidade Tiradentes - SE, e tenho um grande carinho pelas áreas de IA, dados e automação, pela praticidade de como várias coisas podem ser criado e feito de forma autônoma.
+  >  Tenho 20 anos e atualmente sou estudante de Ciência da Computação na Universidade Tiradentes - SE, e tenho um grande carinho pelas áreas de IA, dados e automação, pela praticidade de como várias coisas podem ser criado e feito de forma autônoma e tenho como linguagem favorita o python, pois é a linguagem onde mais se destaca nas áreas que desejo atuar.
 
   <p align="center">
     <a href="https://www.linkedin.com/in/luiz-henrique-silva-fontes-7ba1a9325/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -32,7 +32,7 @@ Uma visualização das tecnologias que domino ou utilizo com frequência.
 
 ---
 
-## 📈 Dashboard de Repositórios
+
 
 ## 📈 Dashboard de Repositórios
 
