@@ -4,7 +4,7 @@
   
   # Olá! Eu sou Luiz Henrique 👋
   
-  >  Tenho 20 anos e atualmente sou estudante de Ciência da Computação na Universidade Tiradentes - SE 
+  >  Tenho 20 anos e atualmente sou estudante de Ciência da Computação na Universidade Tiradentes - SE, e tenho um grande carinho pelas áreas de IA, dados e automação, pela praticidade de como várias coisas podem ser criado e feito de forma autônoma.
 
   <p align="center">
     <a href="https://www.linkedin.com/in/luiz-henrique-silva-fontes-7ba1a9325/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -16,14 +16,6 @@
 
 ---
 
-## 💻 Sobre Mim
-
-Sou [Sua Profissão Principal] com foco em [Área de Atuação]. Adoro transformar ideias complexas em soluções simples e eficientes.
-
-* 🔭 **Atualmente trabalhando em:** [Nome de um projeto ou tecnologia que você está usando].
-* 🌱 **Estudando:** [Ex: TypeScript Avançado, Cloud Computing AWS].
-* 💬 **Fale comigo sobre:** [Ex: Design Patterns, React Hooks, Boas Práticas de Código].
-
 ---
 
 ## 🛠️ Habilidades Técnicas
@@ -32,11 +24,11 @@ Uma visualização das tecnologias que domino ou utilizo com frequência.
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,sass" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring" /> |
-| **Banco de Dados** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" /> |
-| **Ferramentas** | <img src="https://skillicons.dev/icons?i=git,docker,aws,gcp,kubernetes,vscode" /> |
+| **Linguagens** | <img src="https://skillicons.dev/icons?i=js,python,html,css" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=FastAPI, Google-GenerativeAI" /> |
+| **Banco de Dados** | <img src="https://skillicons.dev/icons?i=mysql" /> |
+| **Ferramentas** | <img src="https://skillicons.dev/icons?i=git,vscode" /> |
 
 ---
 
