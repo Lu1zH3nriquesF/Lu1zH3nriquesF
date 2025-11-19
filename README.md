@@ -1,9 +1,9 @@
-Olá! Me chamo Luiz Henrique Silva Fontes, tenho 23 anos e sou natural de Aracaju-SE. Concluí o ensino médio no Colégio Arquidiocesano e, atualmente, curso Sistemas de Informação na Universidade Tiradentes (UNIT).
+Olá! Me chamo Luiz Henrique Silva Fontes, tenho 20 anos e sou de Segipano. Concluí o ensino médio no Colégio CEME em 2022 e,atualment estou estudando Ciência da Computação na Universidade Tiradentes (UNIT).
 
 Sou apaixonado por tecnologia e estou em constante busca por aprendizado e evolução. Atualmente, estou trilhando meu caminho para me tornar um desenvolvedor back-end, focado em construir soluções eficientes e bem estruturadas.
 
 <p align="left">
-    <a href="https://www.instagram.com/juniormoore_/" target="_blank">
+    <a href="https://www.instagram.com/h3nriquesf/" target="_blank">
         <img 
             alt="Instagram" 
             title="Me siga no Instagram" 
@@ -15,18 +15,6 @@ Sou apaixonado por tecnologia e estou em constante busca por aprendizado e evolu
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
             src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <img 
-        alt="Discord"
-        title="jotaerre12"
-        src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
-    />
-    <a href="mailto:gilvan.mourajr@hotmail.com">
-        <img 
-            alt="Outlook"
-            title="Enviar e-mail"
-            src="https://img.shields.io/badge/Outlook-%230078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white"
         />
     </a>
 </p>
