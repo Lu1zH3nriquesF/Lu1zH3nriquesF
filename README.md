@@ -2,10 +2,9 @@
 
   <a href="[LINK DO SEU PORTFÓLIO/WEBSITE]"><img src="https://user-images.githubusercontent.com/46990666/163013897-4a0b22a6-2c1b-4395-9730-84c68832a82d.gif" alt="Olá, sou o [Seu Nome]" width="50px"></a>
   
-  # Olá! Eu sou Luiz Henrique 👋
-  # 20 anos
+  # Olá! Eu sou [Seu Nome ou Apelido] 👋
   
-  > Sou estudante de Ciência da Computação na Universidade Tiradentes - SE. Conclui o ensino médio no Colégio CEME. Tenha um grande carinho pela área de IA e dados, principalmente pela linguagem python para fazer automações e Agentes de IA.
+  > [Sua frase de efeito, ex: "Desenvolvedor Full Stack apaixonado por arquitetura limpa e performance."]
 
   <p align="center">
     <a href="[https://www.linkedin.com/in/luiz-henrique-silva-fontes-7ba1a9325/]"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -19,11 +18,27 @@
 
 ## 💻 Sobre Mim
 
-Sou atualmente Programador trabalhando para o Banese com foco em IA. Adoro transformar ideias complexas em soluções simples e eficientes.
+Sou [Sua Profissão Principal] com foco em [Área de Atuação]. Adoro transformar ideias complexas em soluções simples e eficientes.
+
+* 🔭 **Atualmente trabalhando em:** [Nome de um projeto ou tecnologia que você está usando].
+* 🌱 **Estudando:** [Ex: TypeScript Avançado, Cloud Computing AWS].
+* 💬 **Fale comigo sobre:** [Ex: Design Patterns, React Hooks, Boas Práticas de Código].
 
 ---
 
+## 🛠️ Habilidades Técnicas
 
+Uma visualização das tecnologias que domino ou utilizo com frequência.
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,sass" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring" /> |
+| **Banco de Dados** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" /> |
+| **Ferramentas** | <img src="https://skillicons.dev/icons?i=git,docker,aws,gcp,kubernetes,vscode" /> |
+
+---
 
 ## 📈 Dashboard de Repositórios
 
@@ -36,7 +51,7 @@ Aqui estão minhas estatísticas de commits e as linguagens mais utilizadas nos 
   />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Lu1zH3nriquesF&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=22&card_width=450&border_radius=10"
+    src="https://github-readme-stats.vercel.app/api?username=Lu1zH3nriquesFO&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=22&card_width=450&border_radius=10"
     alt="Estatísticas Gerais do GitHub"
   />
   
@@ -46,6 +61,17 @@ Aqui estão minhas estatísticas de commits e as linguagens mais utilizadas nos 
   />
 </p>
 
+---
+
+## 🌟 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias | Link |
+| :--- | :--- | :--- | :--- |
+| **[Nome do Projeto 1]** | [Descrição breve: O que faz?] | `React` `Node.js` `PostgreSQL` | [Ver Demo]([LINK]) \| [Repo]([LINK]) |
+| **[Nome do Projeto 2]** | [Descrição breve: Um desafio ou solução que você criou.] | `Python` `Django` `ML` | [Ver Demo]([LINK]) \| [Repo]([LINK]) |
+| **[Nome do Projeto 3]** | [Descrição breve: Seu projeto mais recente.] | `Next.js` `Tailwind CSS` | [Ver Demo]([LINK]) \| [Repo]([LINK]) |
+
+---
 
 <div align="center">
   
