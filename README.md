@@ -25,10 +25,10 @@ Sou apaixonado por tecnologia e estou em constante busca por aprendizado e evolu
   <a href="https://github.com/gilvanjunior12">
     <img 
       alt="Views" 
-      src="https://komarev.com/ghpvc/?username=gilvanjunior12&label=views&color=gray&style=for-the-badge" 
+      src="https://komarev.com/ghpvc/?username=Lu1zH3nriquesF&label=views&color=gray&style=for-the-badge" 
     />
   </a>
-  <a href="https://github.com/gilvanjunior12?tab=stars">
+  <a href="https://github.com/Lu1zH3nriquesF?tab=stars">
     <img 
       src="https://custom-icon-badges.demolab.com/github/stars/gilvanjunior12?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" 
       alt="Estrelas no GitHub"
