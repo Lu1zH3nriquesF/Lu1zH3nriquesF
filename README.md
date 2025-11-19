@@ -42,10 +42,6 @@ Aqui estão minhas estatísticas de commits e as linguagens mais utilizadas nos 
     alt="Top Linguagens"
   />
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Lu1zH3nriquesF&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=22&card_width=450&border_radius=10"
-    alt="Estatísticas Gerais do GitHub"
-  />
   
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Lu1zH3nriquesF&theme=dark&hide_border=false&background=0D1117&ring=DD2727&side_color=586069&border_radius=10"
