@@ -51,16 +51,6 @@ Aqui estão minhas estatísticas de commits e as linguagens mais utilizadas nos 
 
 ---
 
-## 🌟 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias | Link |
-| :--- | :--- | :--- | :--- |
-| **[Nome do Projeto 1]** | [Descrição breve: O que faz?] | `React` `Node.js` `PostgreSQL` | [Ver Demo]([LINK]) \| [Repo]([LINK]) |
-| **[Nome do Projeto 2]** | [Descrição breve: Um desafio ou solução que você criou.] | `Python` `Django` `ML` | [Ver Demo]([LINK]) \| [Repo]([LINK]) |
-| **[Nome do Projeto 3]** | [Descrição breve: Seu projeto mais recente.] | `Next.js` `Tailwind CSS` | [Ver Demo]([LINK]) \| [Repo]([LINK]) |
-
----
-
 <div align="center">
   
 &copy; 2025 | Este perfil é mantido com ☕ e paixão por código.
