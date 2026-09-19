@@ -24,7 +24,7 @@ Uma visualização das tecnologias que domino ou utilizo com frequência.
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | <img src="https://skillicons.dev/icons?i=js,python,html,css" /> |
+| **Linguagens** | <img src="https://skillicons.dev/icons?i=js,python,java,html,css" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=python,java" /> |
 | **Banco de Dados** | <img src="https://skillicons.dev/icons?i=mysql" /> |
